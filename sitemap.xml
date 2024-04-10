@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54157/</loc>
+    <loc>https://shastry.me/</loc>
     <lastmod>2024-04-10T20:03:27+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:54157/test/</loc>
-    <lastmod>2024-04-10T20:03:27+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:54157/appsmith/</loc>
+    <loc>https://shastry.me/appsmith/</loc>
     <lastmod>2024-04-10T15:50:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:54157/categories/</loc>
+    <loc>https://shastry.me/categories/</loc>
   </url><url>
-    <loc>http://localhost:54157/tags/</loc>
+    <loc>https://shastry.me/tags/</loc>
   </url>
 </urlset>

@@ -2,24 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ganesha Shastry</title>
-    <link>http://localhost:54157/</link>
+    <link>https://shastry.me/</link>
     <description>Recent content on Ganesha Shastry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2024 20:03:27 +0530</lastBuildDate>
-    <atom:link href="http://localhost:54157/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Testing title</title>
-      <link>http://localhost:54157/test/</link>
-      <pubDate>Wed, 10 Apr 2024 20:03:27 +0530</pubDate>
-      <guid>http://localhost:54157/test/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Wed, 10 Apr 2024 15:50:59 +0530</lastBuildDate>
+    <atom:link href="https://shastry.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Improving widget discoverability</title>
-      <link>http://localhost:54157/appsmith/</link>
+      <link>https://shastry.me/appsmith/</link>
       <pubDate>Wed, 10 Apr 2024 15:50:59 +0530</pubDate>
-      <guid>http://localhost:54157/appsmith/</guid>
+      <guid>https://shastry.me/appsmith/</guid>
       <description>This is a draft post for Appsmith About Appsmith Appsmith is low code tool that helps dev-teams to build internal apps. It tries to do so by&#xA;Allowing users to bring in their data&#xA;Simplifying the UI building part with widgets/ templates&#xA;Supporting customization with JS snippets, and modular code blocks&#xA;The problem For a user activation perspective, our onboarding funnel showed a huge drop at the canvas stage.&#xA;Paying customers were complaining about the difficulties in finding widgets.</description>
     </item>
   </channel>
