@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Panic Driven Developement</title>
-    <link>https://shastry.me/categories/</link>
-    <description>Recent content in Categories on Panic Driven Developement</description>
+    <title>Categories on Ganesha Shastry</title>
+    <link>http://localhost:54157/categories/</link>
+    <description>Recent content in Categories on Ganesha Shastry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://shastry.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:54157/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
